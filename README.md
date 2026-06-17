@@ -12,5 +12,5 @@
 - I am working on building a basic AI model that uses rule-based logic to respond to user inputs.
 
 ## 📫How to Reach Me
-- Email:(loki12345@gmail.com)
+- Email:(loki12345george@gmail.com)
   
