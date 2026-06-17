@@ -1,4 +1,4 @@
-# 👋Hey,Im George Kimani
+# 👋Hey,I'm George Kimani
 ## 🌱About me
 - I'm currently studying Mathematics at UON
 - I'm interested in Ai and programming- 
