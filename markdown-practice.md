@@ -7,12 +7,12 @@ Make sure to **save** your *project* before you run the interactive `python scri
 - Git and Github
 - Machine learning
 - How to create an well working Ai
-  # Steps to make a commit in Git
+# Steps to make a commit in Git
   1. Check your changes
   2. Stage your files
   3. Commit your changes
-| Tool            | purpose                                                             | link                       |
-|-----------------|---------------------------------------------------------------------|----------------------------|
+| Tool            | purpose    | link   |
+|-----------------|------------|--------|
 | Python          |Writing clean, rule-based logic and building foundational AI scripts.|https://www.python.org/     |
 | MIT App Inventor| Designing and testing custom mobile apps using visual block logic.  |https://appinventor.mit.edu/|
 # MY task list
