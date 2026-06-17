@@ -38,5 +38,6 @@ I am a university student currently pursuing my Bachelor of Science degree in **
 |---------|-----------|----------|
 | Python   | Writing clean backend scripts and simple logic loops. | Learning   |
 |    Git & GitHub  | Managing repositories and saving my code history.  | Learning   |
+
 You can reach my github profile via this link:(https://github.com/loki12345george-cmd)
 >Don't try to build everything at once. Write code in small steps, save your work, and fix mistakes early
