@@ -28,3 +28,15 @@ print("Hello, world!")
 ```
 # Blockquotes
 > Don't try to build everything at once. Write code in small steps, save your work, and fix mistakes early.
+# About me
+I am a university student currently pursuing my Bachelor of Science degree in **Mathematics**. While my main studies focus on numbers and logic, I am actively building my skills in software development and learning how to code.
+# My Coding Status
+- [x] Set up Git and GitHub to track my code changes.
+- [ ] Write a new python script to test simple logic loops.
+# Current projects
+| Tool    | purpose      | Status   |
+|---------|-----------|----------|
+| Python   | Writing clean backend scripts and simple logic loops. | Learning   |
+|    Git & GitHub  | Managing repositories and saving my code history.  | Learning   |
+You can reach my github profile via this link:(https://github.com/loki12345george-cmd)
+>Don't try to build everything at once. Write code in small steps, save your work, and fix mistakes early
