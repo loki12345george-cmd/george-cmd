@@ -11,10 +11,10 @@ Make sure to **save** your *project* before you run the interactive `python scri
   1. Check your changes
   2. Stage your files
   3. Commit your changes
-| Tool            | purpose    | link   |
-|-----------------|------------|--------|
-| Python          |Writing clean, rule-based logic and building foundational AI scripts.|https://www.python.org/     |
-| MIT App Inventor| Designing and testing custom mobile apps using visual block logic.  |https://appinventor.mit.edu/|
+| Name    | Role      | Status   |
+|---------|-----------|----------|
+|  Python   | Writing clean, rule-based logic and building foundational AI scripts. | https://www.python.org/   |
+| MIT App Inventor     | Designing and testing custom mobile apps using visual block logic.  | https://appinventor.mit.edu/   | 
 # MY task list
 - [x] Set up a GitHub account to track coding projects
 - [x] Create a repository
