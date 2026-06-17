@@ -3,6 +3,7 @@
 Make sure to **save** your *project* before you run the interactive `python script`.
 # Link text
 (https://github.com/loki12345george-cmd) (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://code.visualstudio.com/&ved=2ahUKEwi01Lna9I2VAxX70AIHHdXxD0YQFnoECAwQAQ&usg=AOvVaw15O90sm1ios8AUpw56hCml)
+## List
 # Things i want to learn
 - Git and Github
 - Machine learning
@@ -21,6 +22,9 @@ Make sure to **save** your *project* before you run the interactive `python scri
 - [x] Create a repository
 - [ ] Learn the basic difference between supervised logic and unsupervised logic in ML
 - [ ] Write a simple script that uses conditional statements to classify user inputs
+# Code block
 ```python
 print("Hello, world!")
 ```
+# Blockquotes
+> Don't try to build everything at once. Write code in small steps, save your work, and fix mistakes early.
