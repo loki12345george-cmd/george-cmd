@@ -1,6 +1,6 @@
 # 👋Hey,I'm George Kimani
 ## 🌱About me
-- I'm currently studying Mathematics at UON
+- I'm currently studying at the UON
 - I'm interested in Ai and programming- 
 - 👯I'm looking to collaborate on beginner-friendly projects
 
